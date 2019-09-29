@@ -1,8 +1,7 @@
 # lasercutting
 
 How to generate auto login WIFI QR code [tutorial]
-https://imgur.com/gallery/nPYlppS
-
+https://imgur.com/gallery/VbyfSkr
 
 To buy the item on Etsy:
 https://www.etsy.com/listing/707242406/engraved-wooden-wifi-login-sign-for
